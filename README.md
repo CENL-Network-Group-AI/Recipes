@@ -4,8 +4,8 @@ It is organized in several sections dedicated to common domains of great interes
 
 
 # Recipes 
-The available recipes are listed in this [wiki page](https://github.com/CENL-Network-Group-AI/Recipes/wiki/AI-Cookbook).
+The available recipes are listed on this [wiki page](https://github.com/CENL-Network-Group-AI/Recipes/wiki/AI-Cookbook).
 
-# Other stuff
-... related to the recipes: e.g. workshops where the recipes have been demonstrated
+# Misc
+... 
 
