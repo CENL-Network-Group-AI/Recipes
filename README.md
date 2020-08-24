@@ -6,6 +6,8 @@ It is organized in several sections dedicated to common domains of great interes
 # Recipes 
 The available recipes are listed on this [wiki page](https://github.com/CENL-Network-Group-AI/Recipes/wiki/AI-Cookbook).
 
+They are based on real-life use cases and implement various techniques, among them NLP, computer vision, document analysis, etc.
+
 # Misc
 ... 
 
