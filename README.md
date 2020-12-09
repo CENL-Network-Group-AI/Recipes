@@ -10,6 +10,6 @@ The available recipes are listed on this [wiki page](https://github.com/CENL-Net
 
 They are based on real-life use cases and implement various techniques, among them NLP, computer vision, document analysis, etc.
 
-# Misc
-... 
+# Contact
+cenl.ng.ai@gmail.com 
 
